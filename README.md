@@ -200,3 +200,7 @@ Querying works as outlined above for local testing.
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | StreamFactory | [0xc08a287eCB16CeD801f28Bb011924f7DE5Cc53a3](https://goerli.etherscan.io/address/0xc08a287eCB16CeD801f28Bb011924f7DE5Cc53a3) |
 | Stream        | [0x20ffE6b3b08f5009788812583D42C5b42bf44447](https://goerli.etherscan.io/address/0x20ffE6b3b08f5009788812583D42C5b42bf44447) |
+
+## Quick Start
+
+Check the documentation above for setup instructions and configuration options.
